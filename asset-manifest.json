@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/attendance-monitor/static/css/main.3982bb5f.css",
+    "main.js": "/attendance-monitor/static/js/main.cea58102.js",
+    "index.html": "/attendance-monitor/index.html",
+    "main.3982bb5f.css.map": "/attendance-monitor/static/css/main.3982bb5f.css.map",
+    "main.cea58102.js.map": "/attendance-monitor/static/js/main.cea58102.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.cea58102.js"
+  ]
+}
